@@ -12,12 +12,12 @@ authors:
   - name: Philipp Schader
     orcid: 0000-0002-6075-0757
     affiliation: 1, 2
-  - name: Marco Nolden
-    orcid: 0000-0001-9629-0564
-    affiliation: 1, 2, 3
   - name: Josh Moore
     orcid: 0000-0003-4028-811X
     affiliation: 4, 5, 6
+  - name: Marco Nolden
+    orcid: 0000-0001-9629-0564
+    affiliation: 1, 2, 3
 affiliations:
   - name: DKFZ Division of Medical Computing
     index: 1
